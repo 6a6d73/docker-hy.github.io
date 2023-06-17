@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DevOps with Docker',
+  title: 'DevOps with Podman',
   tagline: 'Containers for Beginners',
   favicon: 'img/favicon.ico',
 
@@ -57,7 +57,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/logo.jpg',
       navbar: {
-        title: 'DevOps with Docker',
+        title: 'DevOps with Podman',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favicon.ico',
